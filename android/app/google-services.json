@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "25670955393",
+    "firebase_url": "https://ccc-workshop.firebaseio.com",
+    "project_id": "ccc-workshop",
+    "storage_bucket": "ccc-workshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25670955393:android:4f1ffdfe02d2cb12",
+        "android_client_info": {
+          "package_name": "com.example.workshop2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25670955393-6divg83cnr93164shsjm4phm8cjvcba8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgW7QsKx9JTBg0s5DjO0Ct3IgA70z_DUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
